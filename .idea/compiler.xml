@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="chapter02" />
+        <module name="chapter03" />
+        <module name="chapter04-json" />
+        <module name="chapter05-mybatis" />
+        <module name="chapter06-mongodb" />
+        <module name="chapter06-redis" />
+        <module name="chapter06-redis-cluster" />
+        <module name="chapter09-ehcache" />
+        <module name="chapter09-redis" />
+        <module name="chapter10-shiro" />
+        <module name="chapter12-activemq" />
+        <module name="interceptor" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="chapter02" target="1.8" />
+      <module name="chapter03" target="1.8" />
+      <module name="chapter04-interceptor" target="1.8" />
+      <module name="chapter04-json" target="1.8" />
+      <module name="chapter05-mybatis" target="1.8" />
+      <module name="chapter06-mongodb" target="1.8" />
+      <module name="chapter06-redis" target="1.8" />
+      <module name="chapter06-redis-cluster" target="1.8" />
+      <module name="chapter09-ehcache" target="1.8" />
+      <module name="chapter09-redis" target="1.8" />
+      <module name="chapter10-shiro" target="1.8" />
+      <module name="chapter12-activemq" target="1.8" />
+      <module name="interceptor" target="1.8" />
+      <module name="springboot" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
