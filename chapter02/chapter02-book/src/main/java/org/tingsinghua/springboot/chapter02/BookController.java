@@ -6,11 +6,13 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class BookController {
+
     @Autowired
     Book book;
 
     @GetMapping("/book")
     public String book() {
+
         return book.toString();
     }
 }
