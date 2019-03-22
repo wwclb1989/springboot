@@ -8,43 +8,36 @@
 		<version>2.1.2.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+
 	<groupId>org.tingsinghua</groupId>
 	<artifactId>springboot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+
 	<packaging>pom</packaging>
 	<name>springboot</name>
 	<description>Demo project for Spring Boot</description>
 
 	<modules>
+		<module>chapter01</module>
 		<module>chapter02</module>
 		<module>chapter03</module>
-		<module>chapter04-json</module>
-		<module>chapter05-mybatis</module>
-		<module>chapter06-mongodb</module>
-		<module>chapter06-redis</module>
-		<module>chapter06-redis-cluster</module>
-		<module>chapter09-ehcache</module>
-		<module>chapter09-redis</module>
-		<module>chapter10-shiro</module>
-		<module>chapter12-activemq</module>
+		<module>chapter04</module>
+		<module>chapter05</module>
+		<module>chapter06</module>
+		<module>chapter09</module>
+		<module>chapter10</module>
+		<module>chapter12</module>
 	</modules>
 
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
 
-	<dependencies>
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-web</artifactId>
-		</dependency>
+	<dependencyManagement>
+		<dependencies>
 
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-test</artifactId>
-			<scope>test</scope>
-		</dependency>
-	</dependencies>
+		</dependencies>
+	</dependencyManagement>
 
 	<build>
 		<plugins>

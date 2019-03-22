@@ -7,14 +7,13 @@
         <groupId>org.tingsinghua</groupId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
-
     <modelVersion>4.0.0</modelVersion>
     <packaging>pom</packaging>
 
-    <artifactId>chapter02</artifactId>
+    <artifactId>chapter05</artifactId>
 
     <modules>
-        <module>chapter02-book</module>
+        <module>chapter05-mybatis</module>
     </modules>
 
 </project>

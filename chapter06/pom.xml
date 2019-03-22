@@ -7,14 +7,14 @@
         <groupId>org.tingsinghua</groupId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
-
     <modelVersion>4.0.0</modelVersion>
-    <packaging>pom</packaging>
 
-    <artifactId>chapter02</artifactId>
+    <artifactId>chapter06</artifactId>
 
     <modules>
-        <module>chapter02-book</module>
+        <module>chapter06-mongodb</module>
+        <module>chapter06-redis</module>
+        <module>chapter06-redis-cluster</module>
     </modules>
 
 </project>
