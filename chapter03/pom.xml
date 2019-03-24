@@ -13,7 +13,8 @@
     <artifactId>chapter03</artifactId>
 
     <modules>
-        <module>chapter03-book</module>
+        <module>chapter03-thymeleaf</module>
+        <module>chapter03-freemarker</module>
     </modules>
 
 </project>

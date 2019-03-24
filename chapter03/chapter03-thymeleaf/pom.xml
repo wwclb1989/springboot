@@ -7,7 +7,7 @@
 		<artifactId>chapter03</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	<artifactId>chapter03-book</artifactId>
+	<artifactId>chapter03-thymeleaf</artifactId>
 
 	<name>chapter03-book</name>
 	<description>springboot第三章</description>
