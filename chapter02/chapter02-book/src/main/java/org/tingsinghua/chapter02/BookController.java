@@ -1,4 +1,4 @@
-package org.tingsinghua.springboot.chapter02;
+package org.tingsinghua.chapter02;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;

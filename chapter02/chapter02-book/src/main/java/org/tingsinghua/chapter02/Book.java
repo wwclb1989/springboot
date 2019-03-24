@@ -1,4 +1,4 @@
-package org.tingsinghua.springboot.chapter02;
+package org.tingsinghua.chapter02;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
