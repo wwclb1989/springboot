@@ -27,6 +27,8 @@
 		<module>chapter09</module>
 		<module>chapter10</module>
 		<module>chapter12</module>
+		<module>itcast-chapter01</module>
+		<module>itcast-chapter02</module>
 	</modules>
 
 	<properties>
