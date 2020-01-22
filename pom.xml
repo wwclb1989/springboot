@@ -30,6 +30,7 @@
 		<module>itcast-chapter01</module>
 		<module>itcast-chapter02</module>
 		<module>itcast-chapter03</module>
+		<module>itcast-chapter04</module>
 	</modules>
 
 	<properties>
