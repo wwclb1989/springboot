@@ -10,6 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>chapter12</artifactId>
+    <packaging>pom</packaging>
 
     <modules>
         <module>chapter12-activemq</module>

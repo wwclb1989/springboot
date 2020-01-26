@@ -10,6 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>chapter09</artifactId>
+    <packaging>pom</packaging>
 
     <modules>
         <module>chapter09-redis</module>
