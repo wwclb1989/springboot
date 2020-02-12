@@ -34,6 +34,7 @@
 		<module>itcast-chapter05</module>
 		<module>itcast-chapter06</module>
 		<module>itcast-chapter07</module>
+		<module>itcast-chapter08</module>
 	</modules>
 
 	<properties>
