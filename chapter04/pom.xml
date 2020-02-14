@@ -17,6 +17,9 @@
         <module>chapter04-gson</module>
         <module>chapter04-fastjson</module>
         <module>chapter04-fileupload</module>
+        <module>chapter04-cors</module>
+        <module>chapter04-interceptor</module>
+        <module>chapter04-aop</module>
     </modules>
 
 </project>
