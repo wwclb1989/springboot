@@ -16,6 +16,7 @@
         <module>chapter05-mybatis</module>
         <module>chapter05-jdbctemplate</module>
         <module>chapter05-jpa</module>
+        <module>chapter05-jcbctemplate-multidatasource</module>
     </modules>
 
 </project>
